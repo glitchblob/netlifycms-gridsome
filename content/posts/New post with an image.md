@@ -4,7 +4,7 @@ date: 2019-09-11T00:00:00.000Z
 tags:
   - Markdown
   - Cover Image
-coverImage: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
+coverImage: /images/uploads/Screen Shot 2019-07-18 at 12.03.02 PM copy.png
 description: >-
 Latte time
 ---
