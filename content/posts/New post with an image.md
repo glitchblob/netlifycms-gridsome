@@ -1,6 +1,6 @@
 ---
 title: A *new* post with a cover image
-date: 2019-09-11T00:00:00.000Z
+date: 2019-06-06T00:00:00.000Z
 tags:
   - Markdown
   - Cover Image
