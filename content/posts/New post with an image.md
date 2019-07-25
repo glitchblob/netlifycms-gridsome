@@ -1,5 +1,5 @@
 ---
-title: A *new* post with a cover image
+title: A new post with a cover image
 date: 2019-06-06T00:00:00.000Z
 tags:
   - Markdown
